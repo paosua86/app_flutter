@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "496857956954",
+    "project_id": "una-vida-brillante",
+    "storage_bucket": "una-vida-brillante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496857956954:android:aef490560d671101e68e63",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_unavidabrillante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496857956954-md634212a130cj9fhvvqbk2oifgv382v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuWeqH-r2HySwdXfrYARRsEksf52GTMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496857956954-al0bqi0f0eoj42uoin7f6scamgcpu6va.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496857956954-u03joc21cuhvliu5ni2je5d2r3dgd0na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplicationUnavidabrillante"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
