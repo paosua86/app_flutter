@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDVuWeqH-r2HySwdXfrYARRsEksf52GTMs',
-    appId: '1:496857956954:android:aef490560d671101e68e63',
+    appId: '1:496857956954:android:4966ab9550d064b0e68e63',
     messagingSenderId: '496857956954',
     projectId: 'una-vida-brillante',
     storageBucket: 'una-vida-brillante.appspot.com',
@@ -63,21 +63,21 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBByWEhsxiqT1PuvNs_ECri482y_YDiVbY',
-    appId: '1:496857956954:ios:ed47cc9ee8c979aee68e63',
+    appId: '1:496857956954:ios:d1ce76e34274d74ce68e63',
     messagingSenderId: '496857956954',
     projectId: 'una-vida-brillante',
     storageBucket: 'una-vida-brillante.appspot.com',
-    iosClientId: '496857956954-u03joc21cuhvliu5ni2je5d2r3dgd0na.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterApplicationUnavidabrillante',
+    iosClientId: '496857956954-505ijathec2f44ihvpt5hbn2mv6km9eq.apps.googleusercontent.com',
+    iosBundleId: 'com.example.unavidabrillante',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyBByWEhsxiqT1PuvNs_ECri482y_YDiVbY',
-    appId: '1:496857956954:ios:ed47cc9ee8c979aee68e63',
+    appId: '1:496857956954:ios:d1ce76e34274d74ce68e63',
     messagingSenderId: '496857956954',
     projectId: 'una-vida-brillante',
     storageBucket: 'una-vida-brillante.appspot.com',
-    iosClientId: '496857956954-u03joc21cuhvliu5ni2je5d2r3dgd0na.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterApplicationUnavidabrillante',
+    iosClientId: '496857956954-505ijathec2f44ihvpt5hbn2mv6km9eq.apps.googleusercontent.com',
+    iosBundleId: 'com.example.unavidabrillante',
   );
 }

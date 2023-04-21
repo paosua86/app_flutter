@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:496857956954:android:aef490560d671101e68e63",
+        "mobilesdk_app_id": "1:496857956954:android:4966ab9550d064b0e68e63",
         "android_client_info": {
-          "package_name": "com.example.flutter_application_unavidabrillante"
+          "package_name": "com.example.unavidabrillante"
         }
       },
       "oauth_client": [
@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "496857956954-u03joc21cuhvliu5ni2je5d2r3dgd0na.apps.googleusercontent.com",
+              "client_id": "496857956954-505ijathec2f44ihvpt5hbn2mv6km9eq.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.flutterApplicationUnavidabrillante"
+                "bundle_id": "com.example.unavidabrillante"
               }
             }
           ]

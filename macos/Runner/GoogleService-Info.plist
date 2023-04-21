@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>496857956954-505ijathec2f44ihvpt5hbn2mv6km9eq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.496857956954-505ijathec2f44ihvpt5hbn2mv6km9eq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBByWEhsxiqT1PuvNs_ECri482y_YDiVbY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>496857956954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.unavidabrillante</string>
+	<key>PROJECT_ID</key>
+	<string>una-vida-brillante</string>
+	<key>STORAGE_BUCKET</key>
+	<string>una-vida-brillante.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:496857956954:ios:d1ce76e34274d74ce68e63</string>
+</dict>
+</plist>
