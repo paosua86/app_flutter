@@ -7,6 +7,10 @@ import 'package:provider/provider.dart';
 import 'app_state.dart';
 import 'home_page.dart';
 import 'dashboard.dart';
+import 'daily_work.dart';
+import 'goal_tracker.dart';
+import 'meditation.dart';
+import 'community.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -72,11 +76,26 @@ final _router = GoRouter(
             );
           },
         ),
+        GoRoute(
+          path: 'daily-work',
+          builder: (context, state) => const DailyWork(),
+        ),
+        GoRoute(
+          path: 'goal-tracker',
+          builder: (context, state) => const GoalTracker(),
+        ),
+        GoRoute(
+          path: 'meditation',
+          builder: (context, state) => const Meditation(),
+        ),
+        GoRoute(
+          path: 'community',
+          builder: (context, state) => const Community(),
+        ),
       ],
     ),
   ],
 );
-
 
 class App extends StatelessWidget {
   const App({super.key});
